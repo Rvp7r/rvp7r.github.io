@@ -1,6 +1,6 @@
 *BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/0fbc9d43144d57f9acc9044b32fa4353c37358a7/base%20copy.png);
+    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/main/base%20copy.png?raw=true);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/0fbc9d43144d57f9acc9044b32fa4353c37358a7/triggers.png);
+    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/main/triggers.png?raw=true);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/0fbc9d43144d57f9acc9044b32fa4353c37358a7/bumper.png) no-repeat;
+    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/main/bumper.png?raw=true) no-repeat;
     opacity: 0;
 }
 
@@ -122,7 +122,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/0fbc9d43144d57f9acc9044b32fa4353c37358a7/start.png);
+    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/main/start.png?raw=true);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/0fbc9d43144d57f9acc9044b32fa4353c37358a7/dpad.png);
+    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/main/dpad.png?raw=true);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/0fbc9d43144d57f9acc9044b32fa4353c37358a7/sticks.png);
+    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/main/sticks.png?raw=true);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/0fbc9d43144d57f9acc9044b32fa4353c37358a7/face.png);
+    background: url(https://github.com/Rvp7r/rvp7r.github.io/blob/main/face.png?raw=true);
     position: absolute;
 }
 
